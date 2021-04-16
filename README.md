@@ -2,7 +2,8 @@
 	<head>
 		<h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1>
 	</head>
-	<h2>PERSONAL DETAILS</h2><br>
+    <p><a href="https://alexstudio.ch/business-portrait/" target="_blank"><img src="https://alexstudio.ch/wp-content/uploads/2019/01/business.portrait.cv_.resume.geneva.15.jpg" width="145" height="150" alt="Man" title="Man"></a></p>
+	<h2>PERSONAL DETAILS</h2>
 	Residential Address: 123 Dreamland Street, 45987 Moema BRAZIL<br>
 	Mobile: +555 666 7777<br>
 	Date of Birth: 1 April 1980<br>
@@ -29,7 +30,7 @@
 	High School Certificate equivalent<br>
 <br>
 <hr>
-	<h2>WORK EXPERIENCE</h2>
+	<h2>WORK EXPERIENCE</h2>	
 	Jan 2006 - Current<br>
 	MOEMA MARKETING, Sao Paulo BRAZIL<br>
 	<a href="http://www.moemamkt.com.br">http//:www.moemamkt.com.br</a><br>
@@ -80,7 +81,7 @@
 	<ul>
 		<li>Portuguese - Native Tongue<br>
 		<li>French - Basic (reading and writing skills)<br>
-	</ul>  
+	</ul>
 	<h3>OTHER:</h3>
 	St. John's Ambulance Senior First Aid Certificate - 2007<br>
 <br>
@@ -108,6 +109,7 @@
 	Ph: +555 111 999<br>
 	Fax: +555 111 998<br>
 	Email: juanmaciel@moemamktg.br<br>
+<br>
 <br>
 	Ms. Izabela Manteiro<br>
 	Marketing Manager<br>
