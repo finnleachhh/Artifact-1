@@ -1,6 +1,6 @@
 <html>
 <head>
-	<h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1>
+<h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1>
 </head>
 <p><a href="https://alexstudio.ch/business-portrait/" target="_blank"><img src="https://alexstudio.ch/wp-content/uploads/2019/01/business.portrait.cv_.resume.geneva.15.jpg" width="145" height="150" alt="Man" title="Man"></a></p>
 	<h2>PERSONAL DETAILS</h2>
@@ -110,7 +110,7 @@
 	Fax: +555 111 998<br>
 	Email: juanmaciel@moemamktg.br<br>
 <br>
-<br>
+<hr>
 	Ms. Izabela Manteiro<br>
 	Marketing Manager<br>
 	<address>The Art of Marketing<br>
@@ -120,6 +120,5 @@
 	Ph: +555 222 333<br>
 	Fax: +555 222 334<br>
 	Email: izabelam@artofmarketing.com
-
 <p><a href="http://validator.w3.org/check?uri=referer" target="_blank"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="165" height="64" alt="HTML5" title="HTML5"></a></p>
 </html>
